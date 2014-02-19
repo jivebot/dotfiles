@@ -70,6 +70,7 @@ quiet_which() {
 }
 
 export GOPATH=$HOME/go
+export JAVA_HOME=/usr/lib/jvm/java-6-openjdk
 
 add_to_path_end "/Applications/GitX.app/Contents/Resources"
 add_to_path_end "$GOPATH/bin"
