@@ -73,6 +73,7 @@ export GOPATH=$HOME/go
 
 add_to_path_end "/Applications/GitX.app/Contents/Resources"
 add_to_path_end "$GOPATH/bin"
+add_to_path_end "$HOME/bin"
 add_to_path_start "/usr/local/bin"
 add_to_path_start "/usr/local/sbin"
 force_add_to_path_start "bin"
