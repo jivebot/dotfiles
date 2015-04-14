@@ -5,3 +5,5 @@ tmp/restart.txt
 TAGS
 Vagrantfile
 .vagrant
+Procfile.local
+
